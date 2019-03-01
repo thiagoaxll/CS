@@ -68,7 +68,6 @@ namespace TCode
                 if (temporaryText == true)
                 {
                     Destroy(textToInstantiate, 1);
-                    //textToDisplay = null;
                 }
             }
             textToDisplay.text = text;
